@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 100" width="240" height="100">
+  <style>
+    .ifb-mark {
+      font-family: 'Liberation Serif', 'URW Bookman', 'FreeSerif', serif;
+      font-weight: 900;
+      font-size: 92px;
+      letter-spacing: -2px;
+      fill: #737578;
+    }
+  </style>
+  <text x="120" y="78" text-anchor="middle" class="ifb-mark">IFB</text>
+</svg>

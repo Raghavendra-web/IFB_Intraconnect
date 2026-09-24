@@ -1,0 +1,6 @@
+{
+  "name": "IFB Intraconnect",
+  "description": "Desktop Application Suite & Industrial Terminal for Automotive Assembly Plant operations, shift communications, operator directory, and emergency directives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

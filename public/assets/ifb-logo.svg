@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" width="300" height="120">
+  <style>
+    .ifb-mark {
+      font-family: 'Liberation Serif', 'URW Bookman', 'FreeSerif', serif;
+      font-weight: 900;
+      font-size: 82px;
+      letter-spacing: -2px;
+      fill: #737578;
+    }
+    .ifb-sub {
+      font-family: 'Liberation Sans', 'Inter', -apple-system, sans-serif;
+      font-weight: 700;
+      font-size: 19px;
+      letter-spacing: 0.5px;
+      fill: #737578;
+    }
+  </style>
+  <text x="150" y="68" text-anchor="middle" class="ifb-mark">IFB</text>
+  <text x="150" y="104" text-anchor="middle" class="ifb-sub">Automotive Pvt Ltd</text>
+</svg>
